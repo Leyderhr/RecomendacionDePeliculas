@@ -79,9 +79,9 @@ Tanto el Análisis Exploratorio de Datos como el Sistema de Recomendación está
 
 - La combinación del Análisis Exploratorio de Datos (EDA) y el Sistema de Recomendación en una interfaz de usuario Streamlit proporciona una plataforma integral para explorar y disfrutar del vasto mundo del cine. Desde la comprensión de las tendencias de calificación hasta la emoción de descubrir películas similares, esta aplicación ofrece una experiencia envolvente y personalizada para los amantes del cine.
 
-- 
-## Importante
-La base de este programa fue sacada del repositorio: [repo](https://github.com/Angiea18/Analisis-Top250Movies)
-Este fue modificado agregandole la funcionalidad de almacenar los datos de las películas a las que daba like o dislike.
+
+La base de este programa fue sacada del repositorio: [Angiea18](https://github.com/Angiea18/Analisis-Top250Movies)
+-
+Este fue modificado agregandole la funcionalidad de almacenar los datos de las películas a las que el usuario daba like o dislike.
 Se le agregó la capacidad de ir creando un perfil del usuario e ir mejorando la capacidad de recomendaciones en dependencia
 del gusto del mismo.
